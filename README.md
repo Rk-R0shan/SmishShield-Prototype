@@ -3,7 +3,7 @@
 
 An India-first, privacy-preserving cybersecurity defense engine designed to detect and counter multilingual SMS phishing (smishing), fake TRAI DLT sender headers, malicious APK payloads, and high-pressure financial coercion across Indian telecom networks.
 
-🌐 **Live Web App**: [https://rk-r0shan.github.io/SmishShield/](https://rk-r0shan.github.io/SmishShield/)
+🌐 **Live Web App**: [https://rk-r0shan.github.io/SmishShield/](https://rk-r0shan.github.io/SmishShield-Prototype/)
 
 ---
 
