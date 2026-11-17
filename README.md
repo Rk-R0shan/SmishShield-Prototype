@@ -1,10 +1,6 @@
 # SmishShield — Multilingual Smishing Defense Platform
 > **Smart India Hackathon (SIH 2026) Prototype**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-00F0D0?style=for-the-badge&logo=github)](https://rk-r0shan.github.io/SmishShield/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![Telecom Standard](https://img.shields.io/badge/Telecom-TRAI%20DLT%202.0-orange?style=for-the-badge)](https://trai.gov.in)
-
 An India-first, privacy-preserving cybersecurity defense engine designed to detect and counter multilingual SMS phishing (smishing), fake TRAI DLT sender headers, malicious APK payloads, and high-pressure financial coercion across Indian telecom networks.
 
 🌐 **Live Web App**: [https://rk-r0shan.github.io/SmishShield/](https://rk-r0shan.github.io/SmishShield/)
